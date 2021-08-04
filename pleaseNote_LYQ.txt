@@ -15,3 +15,7 @@ Place the following into a .gitignore file within your Unity project folder.
 
 GithubForUnity
 https://github.com/github-for-unity/Unity
+
+
+
+Branch_LYQ
