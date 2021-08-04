@@ -1,0 +1,17 @@
+
+https://www.studica.com/blog/how-to-setup-github-with-unity-step-by-step-instructions
+
+PLEASE NOTE:
+The .gitignore file that comes with the Unity GitHub .gitignore preset passes over just about every file and folder EXCEPT for the Assets and ProjectSettings folders from your Unity Project. This means that whenever a change is pulled from the repository, Unity will have to build a library file for it on your machine. Depending on the volume of changes, this may take a while or it may take a few seconds. This also means that if you make changes to your Unity interface on YOUR computer, those changes will NOT be committed to the repository and to everyone else’s computer. Basically, your Unity UI is unique to your computer so you can setup your UI however you want and the other people on your project will not have their own Unity UI changed.
+
+
+
+https://www.strichnet.com/using-git-with-3d-games/
+
+Place the following into a .gitignore file within your Unity project folder.
+
+
+
+
+GithubForUnity
+https://github.com/github-for-unity/Unity
